@@ -9,3 +9,4 @@ In this experiment, we learn how Git works by performing the following tasks:
 7. Connecting to a remote GitHub repository.
 8. Pushing commits to GitHub using 'git push'.
 This file is used to track changes and verify the behaviour of Git commands.
+Line added in experiment2-update branch
