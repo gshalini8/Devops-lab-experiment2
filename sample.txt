@@ -1,0 +1,11 @@
+This is Experiment 2: Working with Git Shell Commands.
+In this experiment, we learn how Git works by performing the following tasks:
+1. Initializing a repository using 'git init'.
+2. Creating and modifying files inside the working directory.
+3. Adding changes to staging using 'git add'.
+4. Committing changes using 'git commit'.
+5. Creating and switching between branches using 'git branch' and 'git checkout'.
+6. Merging a feature branch into main using 'git merge'.
+7. Connecting to a remote GitHub repository.
+8. Pushing commits to GitHub using 'git push'.
+This file is used to track changes and verify the behaviour of Git commands.
